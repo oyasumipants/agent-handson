@@ -3,6 +3,9 @@
 *.env
 !example.env
 
+# Bedrock AgentCore設定（機密情報を含む）
+.bedrock_agentcore.yaml
+
 # Python
 __pycache__/
 *.py[cod]
