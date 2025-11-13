@@ -6,6 +6,10 @@
 # Bedrock AgentCore設定（機密情報を含む）
 .bedrock_agentcore.yaml
 
+# Docker
+backend/.dockerignore
+backend/Dockerfile
+
 # Python
 __pycache__/
 *.py[cod]
